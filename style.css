@@ -108,8 +108,42 @@ body {
   color: #797979;
  }
 
+ /*SKILLS SECTION*/
+ #wd {
+  background-color: #cdb4db;
+  padding-top: 250px;
+  
+ }
 
- /*SKIPPED OVER SKILLS SECTION FOR NOW*/
+ #ui {
+  background-color: #ffc8dd;
+  margin-bottom: 150px;
+ }
+
+ #css {
+  background-color: #ffafcc;
+ }
+
+ #java {
+  background-color: #bde0fe;
+ }
+
+#html {
+  background-color: #a2d2ff;
+}
+
+#git{
+  background-color: #cdb4db;
+}
+
+.skills {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 100px;
+}
 
  /*ABOUT ME STARTS HERE*/
 
