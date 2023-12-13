@@ -312,13 +312,19 @@ body {
 footer {
   margin: 100px;
   background-color: #cdb4db;
+  border-radius: 1rem;
   color: black;
 }
 
-.my-work1 {
-  display: flex;
-  flex-direction: row;
+#footer-button {
+  background-color: black;
+  color: #ffffff;
+  padding: 8px;
+  border-radius: 1rem;
 }
+
+
+
 
 
 
