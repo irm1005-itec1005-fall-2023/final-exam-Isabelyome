@@ -143,31 +143,43 @@ body {
 }
 
 #image-1 {
+  object-fit: cover;
+  object-position: center;
   width: 300px;
   height: 400px;
 }
 
 #image-2 {
+  object-fit: cover;
+  object-position: center;
   width: 300px;
   height: 300px; 
 }
 
 #image-3 {
+  object-fit: cover;
+  object-position: center;
   width: 300px;
   height: 400px;
 }
 
 #image-4 {
+  object-fit: cover;
+  object-position: center;
   width: 300px;
   height: 400px;
 }
 
-/*NOT FINISHED THIS SCETION yet!!*/
+/*NOT FINISHED THIS SECTION yet!!*/
 
 /*footer*/
 
 footer {
   margin: 100px;
-  background-color: #cdb4db;
+  background-color:linear-gradient(to right top, #7b2cbf, #964fcf, #b16fdf, #ca8fef, #e2afff);
   color: black;
 }
+
+
+
+
