@@ -74,6 +74,10 @@ body {
   color: rgb(255, 255, 255);
   background-color: black;
   padding: 8px;
+  margin-left: 850px;
+  margin-top: 70px;
+  margin-right: 20px;
+  border-radius: 1rem;
  }
 
  .header-button {
@@ -81,6 +85,14 @@ body {
   flex-direction: row;
   justify-content: flex-end;
   /*fix position of box*/
+ }
+
+ #header-icon {
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  padding: 8px;
+  border-radius: 0.9rem;
  }
 
  h1 {
@@ -102,8 +114,11 @@ body {
  /*ABOUT ME STARTS HERE*/
 
  .about-me-image {
-  width: 500px;
+  object-fit: cover;
+  object-position: center;
+  width: 300px;
   padding-left: 120px;
+  border-radius: 1rem
  }
 
 .about-me {
@@ -170,14 +185,22 @@ body {
   height: 400px;
 }
 
+/*flex*/
+
+
 /*NOT FINISHED THIS SECTION yet!!*/
 
 /*footer*/
 
 footer {
   margin: 100px;
-  background-color:linear-gradient(to right top, #7b2cbf, #964fcf, #b16fdf, #ca8fef, #e2afff);
+  background-color: #cdb4db;
   color: black;
+}
+
+.my-work1 {
+  display: flex;
+  flex-direction: row;
 }
 
 
