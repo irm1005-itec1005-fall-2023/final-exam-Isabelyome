@@ -134,3 +134,41 @@ body {
   font-size: small;
   border-radius: 1rem;
 }
+
+/*MY WORK SECTION*/
+
+#my-work-text {
+ padding-top: 150px; 
+ padding-left: 550px;
+}
+
+#image-1 {
+  width: 300px;
+  height: 400px;
+}
+
+#image-2 {
+  width: 300px;
+  height: 300px; 
+}
+
+#image-3 {
+  width: 300px;
+  height: 400px;
+}
+
+#image-4 {
+  width: 300px;
+  height: 400px;
+}
+
+/*NOT FINISHED THIS SCETION yet!!*/
+
+/*footer*/
+
+footer {
+  margin: 100px;
+  background-color: #cdb4db;
+  color: black;
+  border-radius: 1 rem;
+}
