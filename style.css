@@ -67,3 +67,62 @@ body {
 /*
  * ADD YOUR STYLES HERE
  */
+
+ /*HEADER STARTS HERE*/
+
+ .header-button {
+  color: rgb(255, 255, 255);
+  background-color: black;
+  padding: 8px;
+ }
+
+ .header-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  /*fix position of box*/
+ }
+
+ h1 {
+  padding-top: 150px;
+  padding-left: 150px;
+  padding-bottom: 25px;
+ }
+
+ /*paragraph below main title*/
+ .main-title {
+  padding-left: 120px;
+  padding-bottom: 150px;
+  color: #797979;
+ }
+
+
+ /*SKIPPED OVER SKILLS SECTION FOR NOW*/
+
+ /*ABOUT ME STARTS HERE*/
+
+ .about-me-image {
+  width: 500px;
+  padding-left: 120px;
+ }
+
+.about-me {
+  display: flex;
+  flex-direction: row;
+}
+
+.about-me-content {
+  padding-left: 30px;
+}
+
+#about-me {
+  padding-bottom: 20px;
+}
+
+/*button in about me*/
+#button-main{
+  color: black;
+  background-color: #ffc8dd;
+  padding: 10px;
+  font-size: small;
+}
