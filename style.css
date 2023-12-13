@@ -219,6 +219,89 @@ body {
   height: 400px;
 }
 
+#html1 {
+  background-color: #ffafcc;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 1rem;
+}
+
+/*text in the my work*/
+#css1 {
+  background-color: #ffafcc;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 1rem;
+}
+
+#html2 {
+  background-color: #ffafcc;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 1rem;
+}
+
+#css2 {
+  background-color: #ffafcc;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 1rem;
+}
+
+#html3 {
+  background-color: #ffafcc;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 1rem;
+}
+
+#css3 {
+  background-color: #ffafcc;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 1rem;
+}
+
+#html4 {
+  background-color: #ffafcc;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 1rem;
+}
+
+#css4 {
+  background-color: #ffafcc;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 1rem;
+}
+
+#java4 {
+  background-color: #ffafcc;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 1rem;
+}
+
+.text1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.text2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.text3 {
+  display: flex;
+  flex-direction: row;
+}
+
+.text4 {
+  display: flex;
+  flex-direction: row;
+}
 /*flex*/
 
 
