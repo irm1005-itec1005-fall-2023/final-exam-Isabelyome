@@ -84,7 +84,6 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
-  /*fix position of box*/
  }
 
  #header-icon {
@@ -168,7 +167,7 @@ body {
   padding-bottom: 20px;
 }
 
-/*button in about me*/
+/*button in 'about me'*/
 #button-main{
   color: black;
   background-color: #ffc8dd;
@@ -226,7 +225,7 @@ body {
   border-radius: 1rem;
 }
 
-/*text in the my work*/
+/*text in the 'my work' section*/
 #css1 {
   background-color: #ffafcc;
   margin-right: 20px;
@@ -302,8 +301,6 @@ body {
   display: flex;
   flex-direction: row;
 }
-/*flex*/
-
 
 /*NOT FINISHED THIS SECTION yet!!*/
 
