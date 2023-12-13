@@ -125,4 +125,12 @@ body {
   background-color: #ffc8dd;
   padding: 10px;
   font-size: small;
+  border-radius: 1rem;
+}
+
+#button-main :hover {
+  background-color: #ffafcc;
+  padding: 10px;
+  font-size: small;
+  border-radius: 1rem;
 }
